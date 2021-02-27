@@ -1,1 +1,0 @@
-I use data science and NLP to help find a suitable job position.
